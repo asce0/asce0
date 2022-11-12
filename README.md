@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayedzayan6" target="blank"><img src="https://img.shields.io/twitter/follow/asce0?logo=twitter&style=for-the-badge" alt="asce" /></a> </p>
 
-- 🔭 I’m currently working at **Vodafone**
+- 🔭 I’m currently working at **ITWORX**, And **Sonono**.
 
 - 🌱 I’m currently learning **Machine Learning, blockchain**
 
