@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asce0" alt="asce0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sayedzayan6" target="blank"><img src="https://img.shields.io/twitter/follow/asce0?logo=twitter&style=for-the-badge" alt="asce" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sayed_shaaban_" target="blank"><img src="https://img.shields.io/twitter/follow/asce0?logo=twitter&style=for-the-badge" alt="asce" /></a> </p>
 
 - 🔭 I’m currently working at **B_Labs**.
 
